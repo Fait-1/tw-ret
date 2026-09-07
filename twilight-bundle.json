@@ -4,11 +4,13 @@
         "en": "Ret"
     },
     "description": {
-        "ar": "",
-        "en": ""
+        "ar": "عناصر متجر ريت",
+        "en": "Ret Components"
     },
     "author_email": "faisal_mateb@icloud.com",
     "support_url": "",
     "repository": "https://github.com/Fait-1/tw-ret",
-    "components": []
+    "components": [
+        "trending-games"
+    ]
 }
