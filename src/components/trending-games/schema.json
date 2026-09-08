@@ -1,0 +1,35 @@
+{
+  "name": "trending-games",
+  "fields": [
+    {
+      "id": "title",
+      "type": "string",
+      "label": "عنوان القسم",
+      "value": "Trending games"
+    },
+    {
+      "id": "all_text",
+      "type": "string",
+      "label": "نص زر الأقسام",
+      "value": "Categories"
+    },
+    {
+      "id": "all_url",
+      "type": "url",
+      "label": "رابط زر الأقسام",
+      "value": "/categories"
+    },
+    {
+      "id": "accent_color",
+      "type": "color",
+      "label": "لون التمييز والأيقونات",
+      "value": "#3b82f6"
+    },
+    {
+      "id": "card_bg",
+      "type": "color",
+      "label": "لون خلفية البطاقة",
+      "value": "#141416"
+    }
+  ]
+}
