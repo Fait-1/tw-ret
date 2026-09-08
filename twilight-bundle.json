@@ -17,7 +17,8 @@
         "ar": "الألعاب الشائعة",
         "en": "Trending Games"
       },
-      "icon": "sicon-game-controller"
+      "icon": "sicon-game-controller",
+      "path": "dist/trending-games.js"
     }
   ]
 }
