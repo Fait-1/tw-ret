@@ -20,5 +20,8 @@
             "icon": "sicon-game-controller",
             "path": "dist/trending-games.js"
         }
+    ],
+    "features": [
+        "landing-page-templates"
     ]
 }
